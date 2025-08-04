@@ -11,7 +11,7 @@ public class Return {
         System.out.print("Sum od a and b = "+ sum);
     }
     public static void greet(){
-        System.out.println("Perform Addition Operation ");
+        System.out.println("Perform Additional Operation ");
     }
     public static int input(){
         Scanner sc=new Scanner(System.in);
